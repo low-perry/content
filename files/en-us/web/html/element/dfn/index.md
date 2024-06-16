@@ -130,7 +130,8 @@ Note the `<abbr>` element nested inside the `<dfn>`. The former establishes that
       </th>
       <td>
         <a href="/en-US/docs/Web/HTML/Content_categories#flow_content">Flow content</a>,
-        <a href="/en-US/docs/Web/HTML/Content_categories#phrasing_content">phrasing content</a>, palpable content.
+        <a href="/en-US/docs/Web/HTML/Content_categories#phrasing_content">phrasing content</a>,
+        <a href="/en-US/docs/Web/HTML/Content_categories#palpable_content">palpable content</a>.
       </td>
     </tr>
     <tr>
