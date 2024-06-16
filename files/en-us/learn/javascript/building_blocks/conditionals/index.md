@@ -146,7 +146,7 @@ function setWeather() {
 }
 ```
 
-{{ EmbedLiveSample('else_if', '100%', 100, "", "") }}
+{{ EmbedLiveSample('adaf', '100%', 100, "", "") }}
 
 1. Here we've got an HTML {{htmlelement("select")}} element allowing us to make different weather choices, and a simple paragraph.
 2. In the JavaScript, we are storing a reference to both the {{htmlelement("select")}} and {{htmlelement("p")}} elements, and adding an event listener to the `<select>` element so that when its value is changed, the `setWeather()` function is run.
